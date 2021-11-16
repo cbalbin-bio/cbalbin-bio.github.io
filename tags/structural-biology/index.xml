@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/structural-biology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Residue Level Mapping without using SIFTS</title>
-      <link>http://www.example.com/posts/first_post/</link>
+      <link>http://www.example.com/posts/residue_level_mapping/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/first_post/</guid>
+      <guid>http://www.example.com/posts/residue_level_mapping/</guid>
       <description>Often, I need to extract the protein sequence from a PDB structure. At first glance this may seem like a very straight forward task. But there are several pitfalls we need to be aware of.
 Extracting the residues from the atomic data yields unnatural sequences    Your first thought, as was mine when I first started in this field, may be to simply extract the residues from the atomic data.</description>
     </item>
